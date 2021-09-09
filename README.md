@@ -1,3 +1,10 @@
+# This repository comprises:
+
+	instructions to download and work with the dataset
+	implementations of preprocessing pipelines to re-generate the data for different configurations
+	analyses of the dataset
+	implementations of baseline models mentioned in the paper
+
 # sf_tweet_NLP-R
 
 The dataset contains 10 tweets from the official City of San Francisco Twitter account from July 2020. Imagine you are planning on analyzing a much larger corpus of similar tweets, and you will use this subset to build a pre-processing function. 
