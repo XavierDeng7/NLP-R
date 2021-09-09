@@ -4,6 +4,6 @@ The dataset contains 10 tweets from the official City of San Francisco Twitter a
 
 The analysis you are planning on will focus on keywords, hashtags, mentions, and emojis. You are not interested in hyperlinks or phone numbers.
 
-#Download Instructions  
+# Download Instructions  
 
 The dataset can be downloaded from the top:
